@@ -51,5 +51,20 @@ The `src` folder contains reusable code such as processing data, inferring model
 ## Citation
 
 ```
-Waiting for INLG 2025 public paper link
+@inproceedings{anh-etal-2025-low,
+    title = "A low-cost low-energy approach to {VQA} on traffic signs problems",
+    author = "Anh, Vu Dinh  and
+      Tran, Khiem Vinh  and
+      Ha, Tran Thi",
+    editor = "Mai, Luong Chi  and
+      Huyen, Nguyen Thi Minh  and
+      Trang, Nguyen Thi Thu",
+    booktitle = "Proceedings of the 11th International Workshop on Vietnamese Language and Speech Processing",
+    month = oct,
+    year = "2025",
+    address = "Hanoi, Vietnam",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.vlsp-1.53/",
+    pages = "451--458"
+}
 ```
